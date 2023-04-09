@@ -10,8 +10,9 @@
         padding: 40px;
          display:inline-block;
         width: 30%; 
+        
       }
       p{
         text-align: center justify;
-        
+        color: black;
       }
